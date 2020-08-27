@@ -10,7 +10,7 @@
 There are two View Controllers 
 
   - #### Home Screen
-  ![](https://github.com/rafaellevy/beauty-in-the-air/blob/master/IMG/IMG_3821.png)
+  ![](https://github.com/rafaellevy/miss-sun-about/blob/master/IMG_3821.png)
 
   
     - Displays nine layers of animation based on the data retrieved from the APIs
@@ -19,7 +19,7 @@ There are two View Controllers
 	
    
 - #### Detail Screen
-![](https://github.com/rafaellevy/beauty-in-the-air/blob/master/IMG/IMG_3822.png)
+![](https://github.com/rafaellevy/miss-sun-about/blob/master/IMG_3822.png)
 
 
 	- Displays API data as numeric values or helpful tips. The following values are displayed: 
