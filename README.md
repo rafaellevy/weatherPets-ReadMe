@@ -19,7 +19,7 @@ There are two View Controllers
 	
    
 - #### Detail Screen
-![](https://github.com/rafaellevy/miss-sun-about/blob/master/IMG_3822.png)
+![](https://github.com/rafaellevy/miss-sun-about/blob/master/IMG_3822b.png)
 
 
 	- Displays API data as numeric values or helpful tips. The following values are displayed: 
