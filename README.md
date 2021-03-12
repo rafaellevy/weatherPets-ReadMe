@@ -1,5 +1,5 @@
 ## <a name="markdown-pane"></a>ReadMe
-**Beauty in the Air** lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation
+**Miss Sun** lets children and their families experience the weather, air quality, and other important environmental factors in an easy-to-understand animated presentation
 
   - Real time weather conditions
   - Real time air quality index
