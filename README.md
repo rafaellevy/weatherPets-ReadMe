@@ -10,7 +10,7 @@
 There are two View Controllers 
 
   - #### Home Screen
-  ![](https://github.com/rafaellevy/weatherPets/blob/master/Screen Shot 2021-08-20 at 6.22.49 PM.png)
+  ![](https://github.com/rafaellevy/weatherPets/blob/master/IMG_3821b.png)
 
   
     - Displays nine layers of animation based on the data retrieved from the APIs
