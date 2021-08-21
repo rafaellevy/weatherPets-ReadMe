@@ -10,7 +10,7 @@
 There are two View Controllers 
 
   - #### Home Screen
-  ![](https://github.com/rafaellevy/weatherPets/blob/master/IMG_3821b.png)
+  ![](https://github.com/rafaellevy/weatherPets-ReadMe/blob/master/IMG_3821b.png)
 
   
     - Displays nine layers of animation based on the data retrieved from the APIs
@@ -19,7 +19,7 @@ There are two View Controllers
 	
    
 - #### Detail Screen
-![](https://github.com/rafaellevy/miss-sun-about/blob/master/IMG_3822b.png)
+![](https://github.com/rafaellevy/weatherPets-ReadMe/blob/master/IMG_3822b.png)
 
 
 	- Displays API data as numeric values or helpful tips. The following values are displayed: 
