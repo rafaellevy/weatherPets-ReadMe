@@ -72,8 +72,5 @@ Beauty in the sky uses a number of projects to work properly:
 License
 ----
 
-MIT
-
-
-**Free softaware**
+Proprietary
 
